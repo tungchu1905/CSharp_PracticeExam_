@@ -1,0 +1,6 @@
+D:\C# Project\De_p1\De_p1\bin\Debug\De_p1.exe
+D:\C# Project\De_p1\De_p1\bin\Debug\De_p1.pdb
+D:\C# Project\De_p1\De_p1\obj\Debug\Bai1.csprojAssemblyReference.cache
+D:\C# Project\De_p1\De_p1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\C# Project\De_p1\De_p1\obj\Debug\De_p1.exe
+D:\C# Project\De_p1\De_p1\obj\Debug\De_p1.pdb

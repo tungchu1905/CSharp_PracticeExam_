@@ -1,0 +1,7 @@
+D:\C# Project\De_p1\Cau4_Web\bin\Cau4_Web.dll.config
+D:\C# Project\De_p1\Cau4_Web\bin\Cau4_Web.dll
+D:\C# Project\De_p1\Cau4_Web\bin\Cau4_Web.pdb
+D:\C# Project\De_p1\Cau4_Web\obj\Debug\Cau4_Web.csprojAssemblyReference.cache
+D:\C# Project\De_p1\Cau4_Web\obj\Debug\Cau4_Web.csproj.CoreCompileInputs.cache
+D:\C# Project\De_p1\Cau4_Web\obj\Debug\Cau4_Web.dll
+D:\C# Project\De_p1\Cau4_Web\obj\Debug\Cau4_Web.pdb

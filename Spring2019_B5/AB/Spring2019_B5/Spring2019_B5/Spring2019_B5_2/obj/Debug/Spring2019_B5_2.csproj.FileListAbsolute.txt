@@ -1,0 +1,7 @@
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\bin\Spring2019_B5_2.dll.config
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\bin\Spring2019_B5_2.dll
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\bin\Spring2019_B5_2.pdb
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\obj\Debug\Spring2019_B5_2.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\obj\Debug\Spring2019_B5_2.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\obj\Debug\Spring2019_B5_2.dll
+D:\C_Sharp_Winform\EXERCISE\AB\Spring2019_B5\Spring2019_B5\Spring2019_B5_2\obj\Debug\Spring2019_B5_2.pdb

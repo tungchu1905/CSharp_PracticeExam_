@@ -1,0 +1,7 @@
+D:\C# Project\De_p1\Q4\bin\Q4.dll.config
+D:\C# Project\De_p1\Q4\bin\Q4.dll
+D:\C# Project\De_p1\Q4\bin\Q4.pdb
+D:\C# Project\De_p1\Q4\obj\Debug\Q4.csprojAssemblyReference.cache
+D:\C# Project\De_p1\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+D:\C# Project\De_p1\Q4\obj\Debug\Q4.dll
+D:\C# Project\De_p1\Q4\obj\Debug\Q4.pdb

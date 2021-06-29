@@ -1,0 +1,9 @@
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\bin\Debug\A_Color.exe
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\bin\Debug\A_Color.pdb
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.FormMain.resources
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.Properties.Resources.resources
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.exe
+D:\C_Sharp_Winform\EXERCISE\AB\A_Color\A_Color\obj\Debug\A_Color.pdb
