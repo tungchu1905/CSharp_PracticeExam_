@@ -1,0 +1,7 @@
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\bin\Summer_2020_B5_DO_Web.dll.config
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\bin\Summer_2020_B5_DO_Web.dll
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\bin\Summer_2020_B5_DO_Web.pdb
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\obj\Debug\Summer_2020_B5_DO_Web.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\obj\Debug\Summer_2020_B5_DO_Web.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\obj\Debug\Summer_2020_B5_DO_Web.dll
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO_Web\obj\Debug\Summer_2020_B5_DO_Web.pdb

@@ -1,0 +1,10 @@
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\bin\Debug\Summer_2020_B5_DO.exe.config
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\bin\Debug\Summer_2020_B5_DO.exe
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\bin\Debug\Summer_2020_B5_DO.pdb
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.Form1.resources
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.Properties.Resources.resources
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.csproj.GenerateResource.cache
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.exe
+D:\C#LUYENDE\Summer_2020_B5\Summer_2020_B5_DO\Summer_2020_B5_DO\obj\Debug\Summer_2020_B5_DO.pdb
