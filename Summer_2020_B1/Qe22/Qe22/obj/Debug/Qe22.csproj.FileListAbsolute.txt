@@ -1,0 +1,10 @@
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\bin\Debug\Qe22.exe.config
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\bin\Debug\Qe22.exe
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\bin\Debug\Qe22.pdb
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.Form1.resources
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.Properties.Resources.resources
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.csproj.GenerateResource.cache
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.exe
+D:\C#LUYENDE\Summer_2020_B1\Qe22\Qe22\obj\Debug\Qe22.pdb

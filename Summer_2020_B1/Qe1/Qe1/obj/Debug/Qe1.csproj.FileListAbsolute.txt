@@ -1,0 +1,6 @@
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\bin\Debug\Qe1.exe
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\bin\Debug\Qe1.pdb
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\obj\Debug\Qe1.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\obj\Debug\Qe1.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\obj\Debug\Qe1.exe
+D:\C#LUYENDE\Summer_2020_B1\Qe1\Qe1\obj\Debug\Qe1.pdb
