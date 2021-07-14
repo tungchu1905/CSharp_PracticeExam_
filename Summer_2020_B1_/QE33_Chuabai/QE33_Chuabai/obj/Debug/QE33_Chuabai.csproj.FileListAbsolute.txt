@@ -1,0 +1,14 @@
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.dll.config
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.dll
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.pdb
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.dll
+D:\C#LUYENDE\Summer_2020_B1\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.pdb
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.dll.config
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.dll
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\bin\QE33_Chuabai.pdb
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.csprojAssemblyReference.cache
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.dll
+D:\C#LUYENDE\Summer_2020_B1_\QE33_Chuabai\QE33_Chuabai\obj\Debug\QE33_Chuabai.pdb
