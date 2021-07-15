@@ -1,0 +1,10 @@
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\bin\Debug\Qe2.exe.config
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\bin\Debug\Qe2.exe
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\bin\Debug\Qe2.pdb
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.csprojAssemblyReference.cache
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.Form1.resources
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.Properties.Resources.resources
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.csproj.GenerateResource.cache
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.exe
+D:\C#LUYENDE\Spring_2020_B1\Qe2\Qe2\obj\Debug\Qe2.pdb
