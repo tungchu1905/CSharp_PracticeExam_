@@ -1,0 +1,6 @@
+D:\C#LUYENDE\UserClass\UserClass\bin\Debug\UserClass.exe
+D:\C#LUYENDE\UserClass\UserClass\bin\Debug\UserClass.pdb
+D:\C#LUYENDE\UserClass\UserClass\obj\Debug\UserClass.csprojAssemblyReference.cache
+D:\C#LUYENDE\UserClass\UserClass\obj\Debug\UserClass.csproj.CoreCompileInputs.cache
+D:\C#LUYENDE\UserClass\UserClass\obj\Debug\UserClass.exe
+D:\C#LUYENDE\UserClass\UserClass\obj\Debug\UserClass.pdb
