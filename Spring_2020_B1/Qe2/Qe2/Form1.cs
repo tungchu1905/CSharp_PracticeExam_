@@ -21,69 +21,60 @@ namespace Qe2
             lbCity.DataSource = Database.getAllInfecte();
             lbCity.DisplayMember = "province";
             lbCity.ValueMember = "province";
+            cbFemale.Checked = true;
+            cbMale.Checked = true;
+            lbCity.SelectedIndex = 2;
+            
+
         }
 
         private void cbMale_CheckedChanged(object sender, EventArgs e)
         {
-            if(cbFemale.Checked == true && cbMale.Checked == true)
-            {
-                lbCity.SelectedIndex = 2;
-            }
-            if (checkBoth() == false)
-            {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString(), checkSex());
 
-            }
-            else
-            {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString());
-
-            }
+            dgvReport.DataSource = getAll();
         }
 
         private void cbFemale_CheckedChanged(object sender, EventArgs e)
         {
-            if (cbFemale.Checked == true && cbMale.Checked == true)
-            {
-                lbCity.SelectedIndex = 2;
-
-            }
-            if (checkBoth() == false)
-            {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString(), checkSex());
-
-            }
-            else
-            {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString());
-
-            }
-
+            
+            dgvReport.DataSource = getAll();
         }
         private string checkSex( )
         {
-            if (cbFemale.Checked) return "0";
-            if (cbMale.Checked) return "1";
+            if (cbFemale.Checked==true && cbMale.Checked==false) return "0";
+            if (cbMale.Checked==true && cbFemale.Checked == false) return "1";
+            if(cbFemale.Checked == true && cbMale.Checked == true) 
             return "";
+            return "2";
         }
-        private bool checkBoth()
-        {
-            if (cbFemale.Checked == true && cbMale.Checked == true) return true;
-            //if (cbMale.Checked == true || cbFemale.Checked == true) return false;
-            return false;
-        }
+        
         private void lbCity_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (checkBoth() == false)
-            {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString(), checkSex());
+            dgvReport.DataSource = getAll();
+        }
 
-            }
-            else
+        public DataTable getAll()
+        {
+            string sql = "select name,age,sex,nationality, province, " +
+                "traveledfrom,confirmationdate from InfectedCases where sex like '%"+checkSex()+"%' and (province = '"+lbCity.SelectedValue.ToString()+"' ";
+            foreach (DataRowView objDataRowView in lbCity.SelectedItems)
             {
-                dgvReport.DataSource = Database.getAll(lbCity.SelectedValue.ToString());
-
+                sql += "or province like '%" + objDataRowView["province"].ToString() + "%'";
             }
+            sql += ")";
+            return Database.getDataSql(sql);
+            
+        }
+
+        private void lbCity_MouseClick(object sender, MouseEventArgs e)
+        {
+          
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
 
         }
     }

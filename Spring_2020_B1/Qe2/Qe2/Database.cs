@@ -31,8 +31,6 @@ namespace Qe2
             cmd.Connection.Open();
             cmd.ExecuteNonQuery();
             cmd.Connection.Close();
-
-
         }
         internal static DataTable getAllInfecte()
         {
@@ -42,9 +40,6 @@ namespace Qe2
         {
             return getDataSql("select name,age,sex,nationality, province, traveledfrom,confirmationdate from InfectedCases where province ='"+province+"' and sex like '%"+sex+"%'");
         }
-        internal static DataTable getAll(string province)
-        {
-            return getDataSql("select name,age,sex,nationality, province, traveledfrom,confirmationdate from InfectedCases where province ='" + province + "'");
-        }
+        
     }
 }

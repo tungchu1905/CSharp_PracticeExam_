@@ -35,6 +35,8 @@ namespace Qe2
             this.label2 = new System.Windows.Forms.Label();
             this.lbCity = new System.Windows.Forms.ListBox();
             this.dgvReport = new System.Windows.Forms.DataGridView();
+            this.label3 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvReport)).BeginInit();
             this.SuspendLayout();
             // 
@@ -83,8 +85,10 @@ namespace Qe2
             this.lbCity.FormattingEnabled = true;
             this.lbCity.Location = new System.Drawing.Point(25, 180);
             this.lbCity.Name = "lbCity";
+            this.lbCity.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
             this.lbCity.Size = new System.Drawing.Size(143, 173);
             this.lbCity.TabIndex = 4;
+            this.lbCity.MouseClick += new System.Windows.Forms.MouseEventHandler(this.lbCity_MouseClick);
             this.lbCity.SelectedIndexChanged += new System.EventHandler(this.lbCity_SelectedIndexChanged);
             // 
             // dgvReport
@@ -95,11 +99,32 @@ namespace Qe2
             this.dgvReport.Size = new System.Drawing.Size(599, 319);
             this.dgvReport.TabIndex = 5;
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(105, 9);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(35, 13);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "label3";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(98, 125);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(861, 375);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.dgvReport);
             this.Controls.Add(this.lbCity);
             this.Controls.Add(this.label2);
@@ -123,6 +148,8 @@ namespace Qe2
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ListBox lbCity;
         private System.Windows.Forms.DataGridView dgvReport;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button1;
     }
 }
 
